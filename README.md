@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Figma, HTML, CSS, Tailwind CSS, Netlify
+- 🔭 I’m currently working on Figma, HTML, CSS, Tailwind CSS, Netlify. You can visit my [learning journey](learning.md).
 - 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate on frontend development
 <!--
