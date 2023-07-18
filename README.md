@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Figma, HTML, CSS, Tailwind CSS, Netlify
+- 🌱 I’m currently learning Javascript, React
+- 👯 I’m looking to collaborate on frontend development
 <!--
 **dev-arpita/dev-arpita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
