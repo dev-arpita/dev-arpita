@@ -15,12 +15,23 @@ Completed my graduation and masters in hospital administration, I have worked in
 - Digital Desk systems for customer queries
 Due to this work engagement mostly in the IT domain for Healthcare and my passion for self-learning I have started learning to code.
 
+### Freelancing Projects:
+- https://resurrection-india.org/
+- https://neolithicceramica.com/
+  
 ### Certifications
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/arpitaroy/responsive-web-design)
 - Currently on the learning bootcamp track for [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 
-### Projects
-- 
+### Learning Projects
+- https://scrimba-learning-tailwind-project.netlify.app/
+- https://insanely-nft-site.netlify.app/
+- https://protfolio-site-css-fundamental.netlify.app/
+- https://twimba-posts-page.netlify.app/
+- https://oldagramproject.netlify.app/
+- https://my-learning-journey-homepage.netlify.app/
+- https://html-css-quiz-webpage.netlify.app/
+- https://themindfulyoga.netlify.app/
   
 <!--
 **dev-arpita/dev-arpita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
