@@ -1,7 +1,27 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Figma, HTML, CSS, Tailwind CSS, Netlify. You can visit my [learning journey](learning.md).
-- 🌱 I’m currently learning Javascript, React
-- 👯 I’m looking to collaborate on frontend development
+- 🔭 I’m currently working on Figma to Code, HTML, CSS, Tailwind CSS, Netlify.
+- 🌱 I’m currently learning Javascript, React. You can visit my [learning journey](learning.md).
+- 👯 I’m looking to collaborate on frontend development.
+- 📫 How to reach me:
+  - arpita.roy.workar@gmail.com (Email)
+  - https://github.com/dev-arpita/ (Github)
+  - https://www.freecodecamp.org/arpitaroy (Freecodecamp)
+
+### Brief Professional Summary:
+
+Completed my graduation and masters in hospital administration, I have worked in multiple internships on various leading hospitals and also worked in Medica Superspeciality Hospital. During this work period, i have mostly being involved with the following:
+- Digitizing medical records
+- Working on Hospital Management System for OPD Desk
+- Digital Desk systems for customer queries
+Due to this work engagement mostly in the IT domain for Healthcare and my passion for self-learning I have started learning to code.
+
+### Certifications
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/arpitaroy/responsive-web-design)
+- Currently on the learning bootcamp track for [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+
+### Projects
+- 
+  
 <!--
 **dev-arpita/dev-arpita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Responsive Web Design Certification
-- [Certificate](https://github.com/dev-arpita/responsive-web-design-certification/blob/main/responsiveDesignCertificate.png)
+
