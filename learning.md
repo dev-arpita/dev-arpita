@@ -2,7 +2,7 @@
 
 ### Concepts learned: Responsive Web Design (freeCodeCamp)
 - Projects developed:
-  - [cat photo app](https://github.com/dev-arpita/cat-photo-app)
+  - [Building a Cat Photo App](https://github.com/dev-arpita/cat-photo-app)
   - [Building a cafe menu](https://github.com/dev-arpita/cafe-menu)
   - [Building a set of colored markers](https://github.com/dev-arpita/css-colored-marker)
   - [Certification project - Survey Form](https://github.com/dev-arpita/survey-form)
@@ -21,11 +21,6 @@
   - [Building a Ferris wheel](https://github.com/dev-arpita/productLandingPage)
   - [Building a Penguin](https://github.com/dev-arpita/penguin)
   - [Certification project - Protfolio Webpage](https://github.com/dev-arpita/personalProtfolioWebpage)
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
 
 ### Concepts learned: Web Dev Basics
 - Projects developed:
