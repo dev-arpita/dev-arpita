@@ -13,6 +13,7 @@ Completed my graduation and masters in hospital administration, I have worked in
 - Digitizing medical records
 - Working on Hospital Management System for OPD Desk
 - Digital Desk systems for customer queries
+  
 Due to this work engagement mostly in the IT domain for Healthcare and my passion for self-learning I have started learning to code.
 
 ### Freelancing Projects:
