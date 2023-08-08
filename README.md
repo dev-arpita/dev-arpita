@@ -14,7 +14,7 @@ Completed my graduation and masters in hospital administration, I have worked in
 - Working on Hospital Management System for OPD Desk
 - Digital Desk systems for customer queries
 
-Due to this work engagement mostly in the IT domain for Healthcare and my passion for self-learning I have started learning to code to understand the building of web apps.
+Due to this work engagement mostly in the IT domain for Healthcare and my passion for self-learning I have started learning to code to understand the building blocks of web apps.
 
 ### Freelancing Projects:
 - https://resurrection-india.org/
