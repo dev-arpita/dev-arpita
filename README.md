@@ -21,7 +21,7 @@ Due to this work engagement mostly in the IT domain for Healthcare and my passio
 - https://neolithicceramica.com/
   
 ### Certifications
-- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/arpitaroy/responsive-web-design)
+- [Freecodecamp - Responsive Web Design Certification](https://www.freecodecamp.org/certification/arpitaroy/responsive-web-design)
 - Currently on the learning bootcamp track for [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 
 ### Learning Projects
