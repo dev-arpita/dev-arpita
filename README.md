@@ -22,6 +22,7 @@ Due to this work engagement mostly in the IT domain for Healthcare and my passio
   
 ### Certifications
 - [Freecodecamp - Responsive Web Design Certification](https://www.freecodecamp.org/certification/arpitaroy/responsive-web-design)
+- [Scrimba - Learn UI Design Certification](https://scrimba.com/certificate/uzL4qdUe/gdesignbootcamp)
 - Currently on the learning bootcamp track for [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 
 ### Learning Projects
