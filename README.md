@@ -17,7 +17,6 @@ Completed my graduation and masters in hospital administration, I have worked in
 Due to this work engagement mostly in the IT domain for Healthcare and my passion for self-learning I have started learning to code to understand the building blocks of web apps.
 
 ### Freelancing Projects:
-- https://resurrection-india.org/
 - https://neolithicceramica.com/
   
 ### Certifications
